@@ -1,3 +1,5 @@
 # Maths
 
-My crash notes are [here](https://github.com/B1rby/Maths/blob/main/Crash/my%20notes.pdf)
+- Mathematical Induction [here]()
+- Linear Algebra [here]()
+- Pure Vector Geometry in Space [here]()
